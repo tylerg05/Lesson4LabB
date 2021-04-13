@@ -1,0 +1,7 @@
+﻿- I added a Resource Dictionary with a Label style which uses a key to style specific labels
+
+- I added an entry box with a 15-character max length
+
+- I added an editor box that autosizes based on the text changes
+
+- I added a label that is databinded to the entry box which displays whatever is input to it
